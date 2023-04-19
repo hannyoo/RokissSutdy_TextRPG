@@ -1,0 +1,15 @@
+/Users/yoohan/C#/TextRPG/bin/Debug/net7.0/TextRPG
+/Users/yoohan/C#/TextRPG/bin/Debug/net7.0/TextRPG.deps.json
+/Users/yoohan/C#/TextRPG/bin/Debug/net7.0/TextRPG.runtimeconfig.json
+/Users/yoohan/C#/TextRPG/bin/Debug/net7.0/TextRPG.dll
+/Users/yoohan/C#/TextRPG/bin/Debug/net7.0/TextRPG.pdb
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.csproj.AssemblyReference.cache
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.AssemblyInfoInputs.cache
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.AssemblyInfo.cs
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.csproj.CoreCompileInputs.cache
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.dll
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/refint/TextRPG.dll
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.pdb
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/TextRPG.genruntimeconfig.cache
+/Users/yoohan/C#/TextRPG/obj/Debug/net7.0/ref/TextRPG.dll
